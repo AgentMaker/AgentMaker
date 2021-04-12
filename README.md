@@ -13,18 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p align="left">
-<a href="https://github.com/AgentMaker">
-    <img src="https://badges.pufler.dev/visits/AgentMaker/AgentMaker?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/AgentMaker">
-    <img src="https://badges.pufler.dev/years/AgentMaker?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/AgentMaker?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/AgentMaker?style=flat-square&color=black&logo=github">
-  </a>
-  </p>
   
   ### Contact me
   Email : [agentmaker@163.com]()
