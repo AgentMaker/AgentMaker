@@ -15,16 +15,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="left">
-  <a href="https://github.com/AgentMaker" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=AgentMaker&title_color=333&text_color=777" alt="AgentMaker's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=AgentMaker&hide=issues&title_color=333&text_color=777" alt="AgentMaker's Stats" >
-    -->
-  </a>
-</p>
-
-
-<p align="left">
 <a href="https://github.com/AgentMaker">
     <img src="https://badges.pufler.dev/visits/AgentMaker/AgentMaker?style=flat-square&color=black&logo=github">
   </a>
